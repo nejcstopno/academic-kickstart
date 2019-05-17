@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 25  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoctoral Scholar"
+  title = "Postdoctoral Scholar with Ashley Shade"
   company = "Michigan State University"
   company_url = ""
   location = "Michigan"
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Postdoctoral Scholar"
+  title = "Postdoctoral Scholar with David A Stahl"
   company = "University of Washington"
   company_url = ""
   location = "Washington"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Research Assistant"
+  title = "Research Assistant with Laure Weisskopf"
   company = "University of Zurich"
   company_url = ""
   location = "Switzerland"
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Research Assistant"
+  title = "Research Assistant with Ines Mandic-Mulec"
   company = "University of Ljubljana"
   company_url = ""
   location = "Slovenia"
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   description = """"""
   
 [[experience]]
-  title = "Visiting researcher"
+  title = "Visiting researcher in James I Prosser group"
   company = "University of Aberdeen"
   company_url = ""
   location = "UK"

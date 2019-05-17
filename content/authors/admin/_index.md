@@ -51,6 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/nejcstopno
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1532-6826 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -67,7 +70,11 @@ user_groups:
 - Visitors
 ---
 
-Nejc Stopnisek is currently a postdoctoral scholar at the Michigan State University working with dr. Ashley Shade. His research goal is to elucidate and exploit the drivers and consequences of biotic interactions on ecosystem functioning and host wellbeing to mitigate effects of future environmental changes. 
+Nejc Stopnisek is currently a postdoctoral scholar at the Michigan State University working with [Ashley Shade](http://ashley17061.wixsite.com/shadelab). His research goal is to elucidate and exploit the drivers and consequences of biotic interactions on ecosystem functioning and host wellbeing to mitigate effects of future environmental changes. 
 
-His research is based around plant-microbe interactions and soil microbiome. In particular, he is interested in how i) tripartite interactions of plant-soil-microbe will be affected by the climate change and what consequences will that have on agroecosystem functioning and crop production and ii) microbial driven nutrient cycling under climate change and at macro- and micro- scales in terrestrial systems. 
+His research is based around plant-microbe interactions and soil microbiome. In particular, he is interested in how: 
+
+i) __tripartite interactions of plant-soil-microbe will be affected by the climate change and what consequences will that have on agroecosystem functioning and crop production__
+
+ii) __microbial driven nutrient cycling under climate change and at macro- and micro- scales in terrestrial systems.__ 
 
